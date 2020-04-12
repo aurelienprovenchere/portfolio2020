@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow: /assets/
-Disallow: /.git
+Disallow: /.git/
 
 Sitemap: http://aurelienprovenchere.netlify.com/sitemap.xml
